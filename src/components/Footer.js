@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 
-const Header = () => {
+const Footer = () => {
   return (
     <>
       <nav className="bg-green-600 py-4 text-white">
@@ -66,4 +66,4 @@ const Header = () => {
   )
 }
 
-export default Header
+export default Footer
